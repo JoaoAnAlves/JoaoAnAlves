@@ -5,8 +5,8 @@
 ### 💻 Professional Life
 I am currently a Software Developer at Tecnicamente, where I have the unique opportunity to develop my Master’s Thesis in partnership with the company. My research focuses on enhancing MRP (Material Requirements Planning) systems using Machine Learning, specifically optimized for the complexities of the food industry.
 
-🛠 What I’m working
-# My current focus is modernizing industrial applications and building robust, scalable architectures:
+### 🛠 What I’m working
+My current focus is modernizing industrial applications and building robust, scalable architectures:
 
 * Modernization: Leading the migration of legacy Java systems into a modern ecosystem using Angular for responsive UIs and Quarkus for high-performance web services.
 * Web Services: Designing and documenting APIs using Swagger and implementing logic with Java (from 8 to 21).
