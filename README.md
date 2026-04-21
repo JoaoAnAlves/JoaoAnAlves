@@ -10,7 +10,7 @@ My current focus is modernizing industrial applications and building robust, sca
 
 * Modernization: Leading the migration of legacy Java systems into a modern ecosystem using Angular for responsive UIs and Quarkus for high-performance web services.
 * Web Services: Designing and documenting APIs using Swagger and implementing logic with Java (from 8 to 21).
-* Full-Stack Development: Crafting responsive frontends in Angular and managing diverse data environments across PostgreSQL, MySQL, and SQL Server.
+* Full-Stack Development: Crafting responsive frontends in Angular and managing diverse data environments across PostgreSQL and SQL Server.
 
 ---
 
