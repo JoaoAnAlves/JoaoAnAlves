@@ -58,8 +58,8 @@ Due to the nature of my work, a significant portion of my development is contain
 
 ### 📫 How to reach me
 * **Portfolio/Projects:** [João Alves](https://developer-ja.com)
-* **Email:** [João Alves](developer.ja.full.stack@gmail.com)
-* **LinkedIn:** [João Alves](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/)
+* **Email:** [developer.ja.full.stack@gmail.com](mailto:developer.ja.full.stack@gmail.com)
+* **LinkedIn:** [linkedin.com/in/joão-alves](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/)
 
 ---
 *⚡ Fun fact: I am an avid bouldering enthusiast and I'm currently training to optimize my home lab server infrastructure for AI-driven workloads.*
