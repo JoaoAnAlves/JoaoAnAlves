@@ -1,5 +1,7 @@
 ## Hi there, I'm João Alves  👋
 
+**Portfolio:** [https://developer-ja.com](https://developer-ja.com) | **LinkedIn:** [[João Alves](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/)]
+
 ---
 
 ### 💻 Professional Life
