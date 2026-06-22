@@ -52,7 +52,7 @@ Due to the nature of my work, a significant portion of my development is contain
 * **Proprietary Work:** Projects developed for previous employers or ongoing industrial partnerships.
 * **Closed-Source Lab:** Personal R&D projects or infrastructure-as-code experiments that are currently in a private state.
 
-*If you are a recruiter interested in seeing examples of my code style or architectural patterns, please reach out via [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/), I am happy to provide sanitized code snippets or walkthroughs of my architecture.*
+*If you are a recruiter interested in seeing examples of my code style or architectural patterns, please reach out via [João Alves](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/), I am happy to provide sanitized code snippets or walkthroughs of my architecture.*
 
 ---
 
