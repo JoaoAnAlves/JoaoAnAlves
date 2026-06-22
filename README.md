@@ -48,9 +48,9 @@ My academic focus is at the intersection of enterprise software and artificial i
 ---
 
 ### 📫 How to reach me
-* **Portfolio/Projects:** [developer-ja.com](https://developer-ja.com)
-* **Email:** [developer.ja.full.stack@gmail.com]
-* **LinkedIn:** [[João Alves](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/)]
+* **Portfolio/Projects:** [João Alves](https://developer-ja.com)
+* **Email:** [João Alves](developer.ja.full.stack@gmail.com)
+* **LinkedIn:** [João Alves](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/)
 
 ---
 *⚡ Fun fact: I am an avid bouldering enthusiast and I'm currently training to optimize my home lab server infrastructure for AI-driven workloads.*
