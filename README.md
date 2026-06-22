@@ -47,6 +47,13 @@ My academic focus is at the intersection of enterprise software and artificial i
 
 ---
 
+### 📫 How to reach me
+* **Portfolio/Projects:** [developer-ja.com](https://developer-ja.com)
+* **Email:** [Your Email Address]
+* **LinkedIn:** [Link to your profile]
+
+---
+*⚡ Fun fact: I am an avid bouldering enthusiast and I'm currently training to optimize my home lab server infrastructure for AI-driven workloads.*
 
 <!--
 **JoaoAnAlves/JoaoAnAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
