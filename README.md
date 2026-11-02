@@ -1,12 +1,8 @@
-## Hi there, I'm João Alves  👋
-
-**Portfolio:** [[developer-ja.com](https://developer-ja.com)] | **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/)]
-
 Hi, I'm João Alves 👋
 
 Full Stack Software Engineer in Lisbon. I work on Java and Angular, and most days that means modernizing a legacy platform without breaking what already works.
 
-🌐 [[developer-ja.com](https://developer-ja.com)] · 💼 [[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/)] · ✉️ developer.ja.full.stack@gmail.com
+🌐 [developer-ja.com](https://developer-ja.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/) · ✉️ developer.ja.full.stack@gmail.com
 
 💻 What I do at work
 
