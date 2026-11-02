@@ -1,80 +1,31 @@
-## Hi there, I'm João Alves  👋
+<!-- ============ HEADER: animated typing line ============ --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jo%C3%A3o+Alves+%F0%9F%91%8B;Full+Stack+Software+Engineer;Java+%C2%B7+Angular+%C2%B7+Quarkus;Modernizing+legacy+systems;Learning+ML%2FAI+%26+cybersecurity" alt="Typing intro" /> </p> <!-- ============ CONTACT BADGES ============ --> <p align="center"> <a href="https://developer-ja.com"><img src="https://img.shields.io/badge/Portfolio-developer--ja.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=36BCF7" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/[your-custom-slug]"><img src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o_Alves-0A66C2?style=for-the-badge" alt="LinkedIn" /></a> <a href="mailto:developer.ja.full.stack@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> </p>
+💻 What I do
 
-**Portfolio:** [https://developer-ja.com](https://developer-ja.com) | **LinkedIn:** [[João Alves](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/)]
+Full Stack Software Engineer at Tecnicamente (Tecnopack Group) in Lisbon. I work on a long-established operations platform used in offices, factories and warehouses: desktop, Android, touchscreen terminals and handheld PDAs.
 
----
+🔄 Migration: moving the platform to a server-side architecture module by module. I'm responsible for the PDA app, going from Java 8 to WildFly with a new Angular frontend.
+⚙️ Client work: background Quarkus services at client sites, SuiteCRM customizations.
+🔌 Integrations: fixing C# issues with the Primavera ERP.
+🎓 Master's thesis: AI-Enhanced MRP Planning
+<details> <summary><b>FCT NOVA · Electrical & Computer Engineering · defense pending</b> (click to expand)</summary> <br>
 
-### 💻 Professional Life
-I am currently a Software Developer at Tecnicamente, where I have the unique opportunity to develop my Master’s Thesis in partnership with the company. My research focuses on enhancing MRP (Material Requirements Planning) systems using Machine Learning, specifically optimized for the complexities of the food industry.
+Adds demand forecasting to existing MRP systems instead of replacing them.
 
-### 🛠 What I’m working
-My current focus is modernizing industrial applications and building robust, scalable architectures:
+Six models (Random Forest, XGBoost, LightGBM, Prophet, and the zero-shot foundation models Chronos and Granite) are blended into one forecast with a 90% prediction interval
+The forecast becomes raw-material requirements through BOM decomposition and FEFO scheduling
+Python + FastAPI run the models, a Quarkus API sits in between, and the UI is Angular
+Tested on real data from a Portuguese food manufacturer
+</details>
+🌱 Currently learning
+🤖 ML / AI engineering: taking models into real applications
+🛡️ Cybersecurity: [what you're actually doing, e.g. a course or TryHackMe path]
+🗣️ English: B1 → B2
+🛠️ Tech stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,ts,py,cs,angular,react,nextjs,tailwind&perline=8" alt="Languages and frontend" /><br> <img src="https://skillicons.dev/icons?i=fastapi,sklearn,postgres,docker,git,linux,cloudflare,vscode&perline=8" alt="Backend, data and tools" /> </p> <p align="center"><sub>Also: Quarkus · WildFly · SQL Server · XGBoost · LightGBM · Prophet</sub></p>
+🔒 Why most of my work isn't public
 
-* **Modernization:** Leading the migration of legacy Java systems into a modern ecosystem using Angular for responsive UIs and Quarkus for high-performance web services.
-* **Web Services:** Designing and documenting APIs using Swagger and implementing logic with Java (from 8 to 21).
-* **Full-Stack Development:** Crafting responsive frontends in Angular and managing diverse data environments across PostgreSQL and SQL Server.
+Most of my code lives in company repositories: the platform migration, client services and my thesis prototype. The activity below counts that work, but the code stays private. If you're a recruiter and want to see how I structure code, message me on LinkedIn and I'll walk you through it.
 
----
-
-### 🎓 Academic Journey & Thesis
-I am currently completing my **Integrated Master’s in Electrical and Computer Engineering** at University Lisbon (FCT NOVA). 
-
-My academic focus is at the intersection of enterprise software and artificial intelligence. 
-
-* **The Problem:** Traditional MRP (Material Requirements Planning) systems in the food industry struggle with highly perishable goods, fluctuating demand, and complex supply chains.
-* **My Research:** I am developing a machine learning layer to enhance these systems, making inventory and production planning more predictive and less reactive.
-* **The Stack:** Bridging my university foundation in algorithms with Python and ML libraries to process real-world industrial data provided by Tecnicamente.
-
----
-
-### 🎯 Current Goals & Learning
-* 🚀 **Shipping Code:** Defending my thesis while delivering quality, scalable code at work.
-* 🧠 **Machine Learning:** Deepening my expertise in predictive models for industrial data.
-* 🌐 **Frontend:** Leveling up my **Angular** skills for better responsive design.
-* 🗣️ **Communication:** Currently enrolled in an **English course** to improve my professional communication for global collaboration.
-
----
-
-### 🛠 Tech Stack & Tools
-| Category           | Skills                                            |
-| :---               | :---                                              |
-| **Languages**      | Java (8-21), Python, C#, C/C++                    |
-| **Frontend**       | Angular, HTML5, CSS3, Responsive Design           |
-| **Backend**        | Quarkus, Java Web Services, Swagger/OpenAPI       |
-| **Databases**      | PostgreSQL, MySQL, SQL Server                     |
-| **Specialization** | Machine Learning, MRP Systems, Food Industry Tech |
-| **Tools**          | Docker, Git, VSCode, Eclipse                      |
-
----
-
-### 🔒 Access & Privacy
-Due to the nature of my work, a significant portion of my development is contained within private, enterprise-grade repositories. These include:
-* **Proprietary Work:** Projects developed for previous employers or ongoing industrial partnerships.
-* **Closed-Source Lab:** Personal R&D projects or infrastructure-as-code experiments that are currently in a private state.
-
-*If you are a recruiter interested in seeing examples of my code style or architectural patterns, please reach out via [João Alves](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/), I am happy to provide sanitized code snippets or walkthroughs of my architecture.*
-
----
-
-### 📫 How to reach me
-* **Portfolio/Projects:** [João Alves](https://developer-ja.com)
-* **Email:** [developer.ja.full.stack@gmail.com](mailto:developer.ja.full.stack@gmail.com)
-* **LinkedIn:** [linkedin.com/in/joão-alves](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/)
-
----
-*⚡ Fun fact: I am an avid bouldering enthusiast and I'm currently training to optimize my home lab server infrastructure for AI-driven workloads.*
-
-<!--
-**JoaoAnAlves/JoaoAnAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Contribution activity
+<!-- Generated daily by .github/workflows/snake.yml --> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoAnAlves/JoaoAnAlves/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoAnAlves/JoaoAnAlves/output/github-snake.svg" /> <img alt="Contribution snake" src="https://raw.githubusercontent.com/JoaoAnAlves/JoaoAnAlves/output/github-snake-dark.svg" /> </picture> </p>
+<p align="center"><i>🧗 Outside work I climb. It's a lot like debugging: look at the problem, try a route, fall, try again a bit smarter.</i></p>
