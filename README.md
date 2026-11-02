@@ -1,80 +1,36 @@
 ## Hi there, I'm João Alves  👋
 
-**Portfolio:** [https://developer-ja.com](https://developer-ja.com) | **LinkedIn:** [[João Alves](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/)]
+**Portfolio:** [[developer-ja.com](https://developer-ja.com)] | **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/)]
 
----
+Hi, I'm João Alves 👋
 
-### 💻 Professional Life
-I am currently a Software Developer at Tecnicamente, where I have the unique opportunity to develop my Master’s Thesis in partnership with the company. My research focuses on enhancing MRP (Material Requirements Planning) systems using Machine Learning, specifically optimized for the complexities of the food industry.
+Full Stack Software Engineer in Lisbon. I work on Java and Angular, and most days that means modernizing a legacy platform without breaking what already works.
 
-### 🛠 What I’m working
-My current focus is modernizing industrial applications and building robust, scalable architectures:
+🌐 [[developer-ja.com](https://developer-ja.com)] · 💼 [[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/)] · ✉️ developer.ja.full.stack@gmail.com
 
-* **Modernization:** Leading the migration of legacy Java systems into a modern ecosystem using Angular for responsive UIs and Quarkus for high-performance web services.
-* **Web Services:** Designing and documenting APIs using Swagger and implementing logic with Java (from 8 to 21).
-* **Full-Stack Development:** Crafting responsive frontends in Angular and managing diverse data environments across PostgreSQL and SQL Server.
+💻 What I do at work
 
----
+At Tecnicamente (Tecnopack Group) I maintain and extend a long-established operations platform used in offices, factories and warehouses. It runs on desktop, Android, touchscreen terminals and handheld PDAs.
 
-### 🎓 Academic Journey & Thesis
-I am currently completing my **Integrated Master’s in Electrical and Computer Engineering** at University Lisbon (FCT NOVA). 
+Migration: since 2026 the platform is moving to a server-side architecture, one module at a time. I'm responsible for the PDA app, moving it from Java 8 to WildFly with a new Angular frontend.
+Client work: small Quarkus services that run in the background at client sites, plus SuiteCRM customizations.
+Integrations: fixing C# issues with the Primavera ERP.
+🎓 Master's thesis: AI-Enhanced MRP Planning
 
-My academic focus is at the intersection of enterprise software and artificial intelligence. 
+Integrated Master's in Electrical & Computer Engineering at NOVA School of Science and Technology (FCT NOVA), defense pending.
 
-* **The Problem:** Traditional MRP (Material Requirements Planning) systems in the food industry struggle with highly perishable goods, fluctuating demand, and complex supply chains.
-* **My Research:** I am developing a machine learning layer to enhance these systems, making inventory and production planning more predictive and less reactive.
-* **The Stack:** Bridging my university foundation in algorithms with Python and ML libraries to process real-world industrial data provided by Tecnicamente.
+My thesis adds demand forecasting to existing MRP systems instead of replacing them. Six models (Random Forest, XGBoost, LightGBM, Prophet, and the zero-shot foundation models Chronos and Granite) are blended into one forecast. The forecast becomes raw-material requirements through BOM decomposition and FEFO scheduling. Python + FastAPI run the models, with a Quarkus API in between and an Angular UI on top. It was tested on real data from a Portuguese food manufacturer.
 
----
+🌱 Currently learning
+ML / AI engineering: building on the thesis, with a focus on taking models into real applications
+Cybersecurity: [what you're actually doing, e.g. a course or TryHackMe path]
+English: B1, working towards B2
+🛠️ Stack
 
-### 🎯 Current Goals & Learning
-* 🚀 **Shipping Code:** Defending my thesis while delivering quality, scalable code at work.
-* 🧠 **Machine Learning:** Deepening my expertise in predictive models for industrial data.
-* 🌐 **Frontend:** Leveling up my **Angular** skills for better responsive design.
-* 🗣️ **Communication:** Currently enrolled in an **English course** to improve my professional communication for global collaboration.
+Languages: Java · TypeScript · Python · C# · SQL Frontend: Angular · React · Next.js · Tailwind CSS Backend: Quarkus · WildFly · FastAPI ML: scikit-learn · XGBoost · LightGBM · Prophet · Chronos · Granite Data & tools: PostgreSQL · SQL Server · Docker · Git · Linux · Cloudflare Tunnel
 
----
+🔒 Why most of my work isn't here
 
-### 🛠 Tech Stack & Tools
-| Category           | Skills                                            |
-| :---               | :---                                              |
-| **Languages**      | Java (8-21), Python, C#, C/C++                    |
-| **Frontend**       | Angular, HTML5, CSS3, Responsive Design           |
-| **Backend**        | Quarkus, Java Web Services, Swagger/OpenAPI       |
-| **Databases**      | PostgreSQL, MySQL, SQL Server                     |
-| **Specialization** | Machine Learning, MRP Systems, Food Industry Tech |
-| **Tools**          | Docker, Git, VSCode, Eclipse                      |
+Most of what I write lives in company repositories. That includes the platform migration, client services and my thesis prototype. The contribution graph only shows the activity count, not the code. If you're a recruiter and want to see how I structure code, message me on LinkedIn and I'll walk you through it.
 
----
-
-### 🔒 Access & Privacy
-Due to the nature of my work, a significant portion of my development is contained within private, enterprise-grade repositories. These include:
-* **Proprietary Work:** Projects developed for previous employers or ongoing industrial partnerships.
-* **Closed-Source Lab:** Personal R&D projects or infrastructure-as-code experiments that are currently in a private state.
-
-*If you are a recruiter interested in seeing examples of my code style or architectural patterns, please reach out via [João Alves](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/), I am happy to provide sanitized code snippets or walkthroughs of my architecture.*
-
----
-
-### 📫 How to reach me
-* **Portfolio/Projects:** [João Alves](https://developer-ja.com)
-* **Email:** [developer.ja.full.stack@gmail.com](mailto:developer.ja.full.stack@gmail.com)
-* **LinkedIn:** [linkedin.com/in/joão-alves](https://www.linkedin.com/in/jo%C3%A3o-alves-889166227/)
-
----
-*⚡ Fun fact: I am an avid bouldering enthusiast and I'm currently training to optimize my home lab server infrastructure for AI-driven workloads.*
-
-<!--
-**JoaoAnAlves/JoaoAnAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧗 Outside work I climb. It's a lot like debugging: look at the problem, try a route, fall, try again a bit smarter.
